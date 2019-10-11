@@ -1,0 +1,4 @@
+This is a project created using Django(which is a python based framework).
+This is a basic web_application which consists of Django Admin page and an API where we can create and update user profiles.
+Authentication to the super_user is also provided using the modheaders(chrome-extention)
+Trying to post this in github.
